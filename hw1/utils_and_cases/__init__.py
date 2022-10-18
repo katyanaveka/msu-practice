@@ -6,11 +6,11 @@ from .testCases_v2 import (
     backward_propagation_test_case,
     update_parameters_test_case,
     nn_model_test_case,
-    predict_test_case,
+    predict_test_case
 )
 from .planar_utils import (
     plot_decision_boundary,
     sigmoid,
     load_planar_dataset,
-    load_extra_datasets,
+    load_extra_datasets
 )
